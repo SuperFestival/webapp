@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Author:HAOXUEBO  Date:2017/11/15
+#Date:2017/11/15
 import logging; logging.basicConfig(level=logging.INFO)
 import asyncio, os, json, time
 from datetime import datetime
